@@ -1,6 +1,9 @@
+// Components
 import { Header } from './components/header'
 import { Post } from './components/post'
 import { Sidebar } from './components/sidebar'
+
+//Styles
 import './global.css' 
 import styles from './App.module.css'
 
