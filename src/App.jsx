@@ -2,7 +2,6 @@
 import { Header } from './components/header'
 import { Post } from './components/post'
 import { Sidebar } from './components/sidebar'
-
 //Styles
 import './global.css' 
 import styles from './App.module.css'
@@ -19,10 +18,9 @@ export function App() {
         <main>
           <Post author="Joao Santos"
             content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid" 
-          />
-        
+          />      
         </main>
       </div>
     </div>
   )
-};
+}
