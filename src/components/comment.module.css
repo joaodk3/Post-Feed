@@ -26,16 +26,14 @@
     justify-content: space-between;
  }
 
- .auhtorAndTime strong {
+ .authorAndTime strong {
     display: block;
     font-size: 0.875rem;
-    line-height: 1.6rem;
 }
 
-.auhtorAndTime time {
+.authorAndTime time {
     display: block;
-    font-size: 0.75rem;
-    line-height: 1.6rem;
+    font-size: 0.875rem;
     color: var(--grey-800);
 }
 
